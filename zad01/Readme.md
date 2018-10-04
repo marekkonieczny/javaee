@@ -1,2 +1,2 @@
-#Zad01 "Hello World"
+# Zad01 "Hello World"
 Marek Konieczny
