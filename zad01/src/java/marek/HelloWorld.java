@@ -1,4 +1,4 @@
-package pl.konieczny.marek.javaee;
+package java.marek;
 
 public class HelloWorld 
 {
